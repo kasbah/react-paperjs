@@ -57,11 +57,6 @@ typings/
 # dotenv environment variables file
 .env
 
-# dist
-**/dist/*
-!**/dist/index.js
-!**/dist/*.js.flow
-
 # flow-typed
 flow-typed/npm
 
